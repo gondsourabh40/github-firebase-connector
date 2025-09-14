@@ -169,5 +169,3 @@ curl -X POST http://localhost:8080/api/v1/sync
 - Monitor logs for sync failures
 
 ## License
-
-MIT License
